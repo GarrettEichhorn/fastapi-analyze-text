@@ -25,8 +25,8 @@ readability==0.3.1
 readability-lxml==0.7.1
 requests==2.23.0
 soupsieve==2.0
-spacy==2.2.4
-srsly==1.0.2
+spacy>=2.2.0,<3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_smsrsly==1.0.2
 starlette==0.13.2
 thinc==7.4.0
 tqdm==4.45.0
