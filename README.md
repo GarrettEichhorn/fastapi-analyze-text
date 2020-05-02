@@ -1,5 +1,4 @@
 # Analyze text and build an API via FastAPI
----------
 
 ## Documentation
 Find the [Documentation here](https://fastapi-analyze-text.herokuapp.com/docs).
