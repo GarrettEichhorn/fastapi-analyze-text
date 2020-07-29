@@ -30,7 +30,7 @@ starlette==0.13.2
 thinc==7.4.0
 tqdm==4.45.0
 urllib3==1.25.9
-uvicorn==0.11.5
+uvicorn==0.11.7
 uvloop==0.14.0
 wasabi==0.6.0
 websockets==8.1
